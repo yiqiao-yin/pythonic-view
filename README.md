@@ -9,7 +9,7 @@ Welcome to the Bite-Size Python Scripts repository! Here, you'll find a collecti
 | Date       | Link                                      |
 |------------|-------------------------------------------|
 | July 5 - a | [style_iterables_for_list.py](scripts/style_iterables_for_list.py) |
-| July 5 - b | [enumerate_list.py])scripts/enumerate_list) |
+| July 5 - b | [enumerate_list.py](scripts/enumerate_list) |
 
 ## 📜 How to Use
 
