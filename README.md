@@ -4,9 +4,12 @@ Welcome to the Bite-Size Python Scripts repository! Here, you'll find a collecti
 
 ## 📅 Script List
 
+### Year 2024
+
 | Date       | Link                                      |
 |------------|-------------------------------------------|
-| July 5, 2024 | [style_iterables_for_list.py](scripts/style_iterables_for_list.py) |
+| July 5 - a | [style_iterables_for_list.py](scripts/style_iterables_for_list.py) |
+| July 5 - b | [enumerate_list.py])scripts/enumerate_list) |
 
 ## 📜 How to Use
 
